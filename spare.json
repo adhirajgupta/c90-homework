@@ -1,0 +1,252 @@
+Object {
+  "id": "brain",
+  "metadata": Object {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry",
+  },
+  "results": Array [
+    Object {
+      "id": "brain",
+      "language": "en-gb",
+      "lexicalEntries": Array [
+        Object {
+          "entries": Array [
+            Object {
+              "etymologies": Array [
+                "Old English brægen, of West Germanic origin; related to Dutch brein",
+              ],
+              "pronunciations": Array [
+                Object {
+                  "audioFile": "https://audio.oxforddictionaries.com/en/mp3/brain_gb_1.mp3",
+                  "dialects": Array [
+                    "British English",
+                  ],
+                  "phoneticNotation": "IPA",
+                  "phoneticSpelling": "breɪn",
+                },
+              ],
+              "senses": Array [
+                Object {
+                  "definitions": Array [
+                    "an organ of soft nervous tissue contained in the skull of vertebrates, functioning as the coordinating centre of sensation and intellectual and nervous activity",
+                  ],
+                  "domainClasses": Array [
+                    Object {
+                      "id": "anatomy",
+                      "text": "Anatomy",
+                    },
+                  ],
+                  "examples": Array [
+                    Object {
+                      "notes": Array [
+                        Object {
+                          "text": "as modifier",
+                          "type": "grammaticalNote",
+                        },
+                      ],
+                      "text": "a brain tumour",
+                    },
+                  ],
+                  "id": "m_en_gbus0121010.006",
+                  "notes": Array [
+                    Object {
+                      "text": "The human brain consists of three main parts. (i) The forebrain, greatly developed into the cerebrum, consists of two hemispheres joined by a bridge of nerve fibres, and is responsible for the exercise of thought and control of speech. (ii) The midbrain, the upper part of the tapering brainstem, contains cells concerned in eye movements. (iii) The hindbrain, the lower part of the brainstem, contains cells responsible for breathing and for regulating heart action, the flow of digestive juices, and other unconscious actions and processes. The cerebellum, which lies behind the brain stem, plays an important role in the execution of highly skilled movements",
+                      "type": "encyclopedicNote",
+                    },
+                  ],
+                  "semanticClasses": Array [
+                    Object {
+                      "id": "neural_structure",
+                      "text": "Neural_Structure",
+                    },
+                  ],
+                  "shortDefinitions": Array [
+                    "organ in skull",
+                  ],
+                  "subsenses": Array [
+                    Object {
+                      "definitions": Array [
+                        "the substance of an animal's brain used as food.",
+                      ],
+                      "domainClasses": Array [
+                        Object {
+                          "id": "food",
+                          "text": "Food",
+                        },
+                      ],
+                      "id": "m_en_gbus0121010.009",
+                      "notes": Array [
+                        Object {
+                          "text": "\"brains\"",
+                          "type": "wordFormNote",
+                        },
+                      ],
+                      "semanticClasses": Array [
+                        Object {
+                          "id": "meat",
+                          "text": "Meat",
+                        },
+                      ],
+                      "shortDefinitions": Array [
+                        "animal's brain used as food",
+                      ],
+                    },
+                    Object {
+                      "definitions": Array [
+                        "an electronic device with functions comparable to those of the human brain",
+                      ],
+                      "domainClasses": Array [
+                        Object {
+                          "id": "electronics",
+                          "text": "Electronics",
+                        },
+                      ],
+                      "examples": Array [
+                        Object {
+                          "text": "an electronic brain",
+                        },
+                      ],
+                      "id": "m_en_gbus0121010.011",
+                      "registers": Array [
+                        Object {
+                          "id": "informal",
+                          "text": "Informal",
+                        },
+                      ],
+                      "semanticClasses": Array [
+                        Object {
+                          "id": "computer",
+                          "text": "Computer",
+                        },
+                      ],
+                      "shortDefinitions": Array [
+                        "device comparable to brain",
+                      ],
+                    },
+                  ],
+                  "synonyms": Array [
+                    Object {
+                      "language": "en",
+                      "text": "cerebrum",
+                    },
+                    Object {
+                      "language": "en",
+                      "text": "cerebral matter",
+                    },
+                  ],
+                  "thesaurusLinks": Array [
+                    Object {
+                      "entry_id": "brain",
+                      "sense_id": "t_en_gb0001690.001",
+                    },
+                  ],
+                },
+                Object {
+                  "definitions": Array [
+                    "intellectual capacity",
+                  ],
+                  "examples": Array [
+                    Object {
+                      "text": "I didn't have enough brains for the sciences",
+                    },
+                    Object {
+                      "notes": Array [
+                        Object {
+                          "text": "mass noun",
+                          "type": "grammaticalNote",
+                        },
+                      ],
+                      "text": "success requires brain as well as brawn",
+                    },
+                  ],
+                  "id": "m_en_gbus0121010.015",
+                  "semanticClasses": Array [
+                    Object {
+                      "id": "faculty",
+                      "text": "Faculty",
+                    },
+                  ],
+                  "shortDefinitions": Array [
+                    "intellectual capacity",
+                  ],
+                  "subsenses": Array [
+                    Object {
+                      "definitions": Array [
+                        "a clever person who supplies the ideas and plans for a group of people",
+                      ],
+                      "examples": Array [
+                        Object {
+                          "text": "Tom was the brains of the outfit",
+                        },
+                      ],
+                      "id": "m_en_gbus0121010.016",
+                      "notes": Array [
+                        Object {
+                          "text": "\"the brains\"",
+                          "type": "wordFormNote",
+                        },
+                      ],
+                      "registers": Array [
+                        Object {
+                          "id": "informal",
+                          "text": "Informal",
+                        },
+                      ],
+                      "semanticClasses": Array [
+                        Object {
+                          "id": "intellectual",
+                          "text": "Intellectual",
+                        },
+                      ],
+                      "shortDefinitions": Array [
+                        "person supplying ideas for group",
+                      ],
+                      "synonyms": Array [
+                        Object {
+                          "language": "en",
+                          "text": "clever person",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "intellectual",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "intellect",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "bluestocking",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "thinker",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "highbrow",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "mind",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "scholar",
+                        },
+                        Object {
+                          "language": "en",
+                          "text": "sage",
+                        },
+                      ],
+                      "thesaurusLinks": Array [
+                        Object {
+                          "entry_id": "brain",
+                          "sense_id": "t_en_gb0001690.003",
+                        },
+                      ],
+                    },
+                    Object {
+                      "definitions": Array [
+                        "a pe...(truncated to the first 10000 characters)
